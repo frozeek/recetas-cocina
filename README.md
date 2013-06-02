@@ -1,4 +1,4 @@
-recetas-cocina
-==============
+RECETAS DE COCINA
+=================
 
-Recetas de cocina
+Recetas de cocina fáciles.
